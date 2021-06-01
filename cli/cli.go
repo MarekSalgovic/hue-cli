@@ -3,7 +3,7 @@ package cli
 import (
 	"flag"
 	"fmt"
-	"github.com/MarekSalgovic/hue-go/hue"
+	"github.com/MarekSalgovic/hue-cli/hue"
 	"github.com/amimof/huego"
 	"log"
 	"os"

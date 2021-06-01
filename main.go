@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/MarekSalgovic/hue-go/cli"
+	"github.com/MarekSalgovic/hue-cli/cli"
 )
 
 func main() {
