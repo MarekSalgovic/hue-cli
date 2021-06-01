@@ -1,4 +1,4 @@
-module github.com/MarekSalgovic/hue-go
+module github.com/MarekSalgovic/hue-cli
 
 go 1.16
 
